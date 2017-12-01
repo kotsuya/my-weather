@@ -1,6 +1,6 @@
-
 Project
-expo(http://expo.io)
+React Native(https://facebook.github.io/react-native/)
+expo(https://expo.io)
 
 Weather API
 OpenWeatherMap(https://home.openweathermap.org)
